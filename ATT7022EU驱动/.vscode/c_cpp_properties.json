@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "name": "linux-gcc-x64",
+            "includePath": [
+                "/home/liuzeyu/Desktop/kernel",
+                "/home/liuzeyu/Desktop/kernel/include",
+                "./",
+                "/home/liuzeyu/Desktop/kernel/arch/arm/include",
+                "/home/liuzeyu/Desktop/kernel/arch/arm/include/generated",
+                "/home/liuzeyu/Desktop/kernel/include/uapi"
+            ],
+            "compilerPath": "/usr/local/arm/gcc-arm-9.2-2019.12-x86_64-arm-none-linux-gnueabihf/bin/arm-none-linux-gnueabihf-gcc",
+            "cStandard": "c99",
+            "cppStandard": "${default}",
+            "intelliSenseMode": "linux-gcc-arm",
+            "compilerArgs": [
+                ""
+            ],
+            "configurationProvider": "ms-vscode.makefile-tools"
+        }
+    ],
+    "version": 4
+}

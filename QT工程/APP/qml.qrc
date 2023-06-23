@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Image/level0.png</file>
+        <file>Image/level1.png</file>
+        <file>Image/level2.png</file>
+        <file>Image/level3.png</file>
+        <file>Image/level4.png</file>
+        <file>Image/level5.png</file>
+        <file>Image/refresh.png</file>
+        <file>Image/save.png</file>
+        <file>Image/detc.png</file>
+        <file>Image/background.png</file>
+        <file>Image/enter.png</file>
+        <file>Image/dialogbackground.png</file>
+        <file>Image/close.png</file>
+    </qresource>
+</RCC>

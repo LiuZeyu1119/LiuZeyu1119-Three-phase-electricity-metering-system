@@ -1,0 +1,1 @@
+cmd_/home/liuzeyu/Desktop/meternewnew/ATT7022EU.ko := arm-none-linux-gnueabihf-ld -r  -EL  --build-id  -T ./scripts/module-common.lds -T ./arch/arm/kernel/module.lds -o /home/liuzeyu/Desktop/meternewnew/ATT7022EU.ko /home/liuzeyu/Desktop/meternewnew/ATT7022EU.o /home/liuzeyu/Desktop/meternewnew/ATT7022EU.mod.o;  true

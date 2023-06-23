@@ -1,0 +1,12 @@
+info text
+make -C /home/liuzeyu/Desktop/kernel M=/home/liuzeyu/Desktop/meter modules
+make[1]: Entering directory '/home/liuzeyu/Desktop/kernel'
+  CC [M]  /home/liuzeyu/Desktop/meter/ATT7022EU.o
+
+  WARNING: Symbol version dump ./Module.symvers
+           is missing; modules will have no dependencies and modversions.
+
+scripts/Makefile.build:265: recipe for target '/home/liuzeyu/Desktop/meter/ATT7022EU.o' failed
+Makefile:1691: recipe for target '/home/liuzeyu/Desktop/meter' failed
+make[1]: Leaving directory '/home/liuzeyu/Desktop/kernel'
+Makefile:20: recipe for target 'default' failed
